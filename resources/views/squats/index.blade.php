@@ -6,7 +6,7 @@
     @endforeach
 </ul>
 
-<form action="{{ route( route('squats.store') }}" method="POST">
+<form action="{{ route('squats.store') }}" method="POST">
     @csrf
     <button type="submit">Add Squat Entry</button>
 </form>
