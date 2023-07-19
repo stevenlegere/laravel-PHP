@@ -70,20 +70,23 @@ REST API: Used to fetch random cat pictures from an external source.
 Composer: To manage the project's dependencies.
 Screenshots
 Here are some screenshots of the application:
+
+-------------------------------
+
 <img width="1208" alt="Screenshot 2023-07-18 at 14 40 49" src="https://github.com/stevenlegere/laravel-PHP/assets/121768671/ceaf11ce-48bc-46d0-8812-aea8c92522b2">
------------------
+-------------------------------
 
 <img width="1290" alt="Screenshot 2023-07-18 at 14 41 03" src="https://github.com/stevenlegere/laravel-PHP/assets/121768671/352e15b1-2a81-4340-a72a-6cea76d1c465">
------------------
+-------------------------------
 
 <img width="414" alt="Screenshot 2023-07-19 at 12 35 37" src="https://github.com/stevenlegere/laravel-PHP/assets/121768671/2a20c8d7-580c-4db0-b733-9bfb7b2526db">
------------------
+-------------------------------
 
 <img width="503" alt="Screenshot 2023-07-19 at 13 10 37" src="https://github.com/stevenlegere/laravel-PHP/assets/121768671/71da520f-7950-4465-bb0a-44a6413fb1e5">
------------------
+-------------------------------
 
 <img width="503" alt="Screenshot 2023-07-19 at 12 28 40" src="https://github.com/stevenlegere/laravel-PHP/assets/121768671/2b103a72-da0c-43ec-ab15-e405131173da">
------------------
+-------------------------------
 
 
 Improvements and Future Work
