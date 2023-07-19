@@ -1,7 +1,13 @@
-Laravel/PHP Tech Test - Random Cat Pictures Website
-Random Cat Pictures
+# Laravel/PHP Tech Test - Random Cat Pictures Website
+## Random Cat Pictures
 
-Welcome to my Laravel/PHP tech test project! In a day and a half, I have created a basic website that handles authentication and displays random cat pictures using a RESTful API. This project was a great opportunity for me to discover Laravel!
+
+
+https://github.com/stevenlegere/laravel-PHP/assets/121768671/a1adbd55-3b64-48e3-ba64-990832624db8
+
+
+
+### Welcome to my Laravel/PHP tech test project! In a day and a half, I have created a basic website that handles authentication and displays random cat pictures using a RESTful API. This project was a great opportunity for me to discover Laravel!
 
 Table of Contents
 Introduction
@@ -73,14 +79,6 @@ Here are some screenshots of the application:
 <img width="503" alt="Screenshot 2023-07-19 at 13 10 37" src="https://github.com/stevenlegere/laravel-PHP/assets/121768671/71da520f-7950-4465-bb0a-44a6413fb1e5">
 
 <img width="503" alt="Screenshot 2023-07-19 at 12 28 40" src="https://github.com/stevenlegere/laravel-PHP/assets/121768671/2b103a72-da0c-43ec-ab15-e405131173da">
-
-
-
-
-https://github.com/stevenlegere/laravel-PHP/assets/121768671/8b2f85a3-d379-4f3b-acdd-8456f2e525a2
-
-
-
 
 
 Improvements and Future Work
