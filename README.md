@@ -71,28 +71,42 @@ Composer: To manage the project's dependencies.
 Screenshots
 Here are some screenshots of the application:
 <img width="1208" alt="Screenshot 2023-07-18 at 14 40 49" src="https://github.com/stevenlegere/laravel-PHP/assets/121768671/ceaf11ce-48bc-46d0-8812-aea8c92522b2">
+-----------------
 
 <img width="1290" alt="Screenshot 2023-07-18 at 14 41 03" src="https://github.com/stevenlegere/laravel-PHP/assets/121768671/352e15b1-2a81-4340-a72a-6cea76d1c465">
+-----------------
 
 <img width="414" alt="Screenshot 2023-07-19 at 12 35 37" src="https://github.com/stevenlegere/laravel-PHP/assets/121768671/2a20c8d7-580c-4db0-b733-9bfb7b2526db">
+-----------------
 
 <img width="503" alt="Screenshot 2023-07-19 at 13 10 37" src="https://github.com/stevenlegere/laravel-PHP/assets/121768671/71da520f-7950-4465-bb0a-44a6413fb1e5">
+-----------------
 
 <img width="503" alt="Screenshot 2023-07-19 at 12 28 40" src="https://github.com/stevenlegere/laravel-PHP/assets/121768671/2b103a72-da0c-43ec-ab15-e405131173da">
+-----------------
 
 
 Improvements and Future Work
 Given the limited timeframe, I focused on implementing the core functionalities of the project. However, there are several areas where the project could be improved or expanded in the future:
 
 Error Handling: Enhance error handling to provide users with more informative messages when something goes wrong.
+
 Tests: Implement test cases to ensure the stability and correctness of the application.
+
 User Profile: Allow users to update their profiles and upload avatars.
+
 Favorite Pictures: Add a feature that allows users to mark pictures as favorites.
+
 Pagination: Implement pagination for the cat pictures to improve the browsing experience.
+
 Caching: Consider implementing caching mechanisms to reduce the number of API requests.
+
 Security: Review security measures to ensure the application is protected against common vulnerabilities.
+
 Code Refactoring: Look for opportunities to optimize the codebase and adhere to best practices.
-Thank you for taking the time to review my tech test project. I look forward to discussing it further and exploring how we can enhance this project together. If you have any questions or feedback, please feel free to reach out!
+
+Thank you for taking the time to review my tech test project. I look forward to discussing it further and exploring how we can enhance 
+this project together.
 
 Best regards,
 Steve Légère
