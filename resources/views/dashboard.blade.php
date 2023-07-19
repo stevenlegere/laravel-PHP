@@ -12,6 +12,17 @@
                     {{ __("You're logged in!") }}
                 </div>
             </div>
-        </div>
-    </div>
+
+            <div>
+                <!-- resources/views/welcome.blade.php -->
+                <div class="image-container">
+<img id="cat-image" src="" alt="Cat Image">
+</div>
+<button id="cat-button">Get Cat Image</button>
+
+            </div>
+
+<!-- Your HTML code here -->
+<script src="{{ asset('js/cat.js') }}"></script>
+
 </x-app-layout>

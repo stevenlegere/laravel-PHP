@@ -11,7 +11,6 @@ class SquatsController extends Controller
     public function index()
     {
         $squats = Squat::all();
-        dd($squats);
         return view('squats.index', compact('squats'));
     }
 
