@@ -28,7 +28,7 @@
     <style>
         .p-6 {
             color: black;
-            background-color: pink;
+            background-color: white;
         }
 
         .image-container {
