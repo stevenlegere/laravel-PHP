@@ -11,10 +11,12 @@ async function getInitialCatPic() {
     console.error('Error fetching initial cat image:', error);
   }
   // Center the image on initial load
-  const imageContainer = document.querySelector('.image-container');
-  imageContainer.style.display = 'flex';
-  imageContainer.style.justifyContent = 'center';
-  imageContainer.style.alignItems = 'center';
+  // const imageContainer = document.querySelector('.image-container');
+  // imageContainer.style.display = 'flex';
+  // imageContainer.style.justifyContent = 'center';
+  // imageContainer.style.alignItems = 'center';
+  // make the image smaller
+  // imageContainer.style.width = 250;
 }
 
 // Fetch initial cat image on page load
